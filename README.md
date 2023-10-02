@@ -17,6 +17,11 @@
 7. make a request from user interface sending messages
 ```
 
+### to run in product
+
+```
+ npm run start
+```
 ### Overview
 
 El presente proyecto usa nodejs con express para el servidor
@@ -26,15 +31,9 @@ los mensajes enviados por cada usuario
 
 y el cliente usando el template-engine handlebars para la interfaz de usuario 
 
+el proyecto fue desplegado en Render
 
+### Render
 
-### to run in product
-
-```
- npm run start
-```
-
-### Glitch
-
-https://distinct-shimmering-isthmus.glitch.me
+https://ibero-activity-3.onrender.com/
 # potential-spork
